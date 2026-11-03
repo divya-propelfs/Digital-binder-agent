@@ -3,6 +3,7 @@ AI-powered Digital Binder Agent that automates weekly SharePoint binder updates 
 
 
 ## project Structure:
+```
 digital-binder-agent/
 
 ├── docs/
@@ -44,3 +45,4 @@ digital-binder-agent/
 ├── requirements.txt
 │
 └── README.md
+```
